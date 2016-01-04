@@ -1,0 +1,28 @@
+{
+  "name": "fresh-theme-compact",
+  "version": "0.1.0",
+  "homepage": "https://github.com/fluentdesk/fresh-theme-compact",
+  "authors": [
+    "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)"
+  ],
+  "description": "A compact, no-frills résumé theme for candidates with lengthy work histories.",
+  "main": "compact.json",
+  "keywords": [
+    "resume",
+    "CV",
+    "FRESH",
+    "FluentCV",
+    "HackMyResume",
+    "employment",
+    "schema",
+    "JSON"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
