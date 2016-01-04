@@ -6,7 +6,7 @@
     "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)"
   ],
   "description": "A compact, no-frills résumé theme for candidates with lengthy work histories.",
-  "main": "compact.json",
+  "main": "theme.json",
   "keywords": [
     "resume",
     "CV",
